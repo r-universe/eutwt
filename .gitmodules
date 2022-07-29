@@ -8,3 +8,8 @@
 	url = https://github.com/eutwt/tablecompare
 	shallow = true
 	registered = true
+[submodule "tidyselect"]
+	path = tidyselect
+	url = https://github.com/r-lib/tidyselect
+	shallow = true
+	registered = false

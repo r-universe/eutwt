@@ -1,0 +1,8 @@
+[
+  {
+    "package": "tidyselect",
+    "url": "https://github.com/r-lib/tidyselect",
+    "via": ["tablecompare"],
+    "from": "tablecompare"
+  }
+]
