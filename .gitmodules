@@ -1,25 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tablecompare"]
 	path = tablecompare
 	url = https://github.com/eutwt/tablecompare
-	shallow = true
-	registered = true
 [submodule "lifecycle"]
 	path = lifecycle
 	url = https://github.com/r-lib/lifecycle
-	shallow = true
 	registered = false
 [submodule "tidyselect"]
 	path = tidyselect
 	url = https://github.com/r-lib/tidyselect
-	shallow = true
 	registered = false
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
-	shallow = true
 	registered = false
