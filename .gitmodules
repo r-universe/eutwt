@@ -5,3 +5,6 @@
 [submodule "tablecompare"]
 	path = tablecompare
 	url = https://github.com/eutwt/tablecompare
+[submodule "versus"]
+	path = versus
+	url = https://github.com/eutwt/versus
